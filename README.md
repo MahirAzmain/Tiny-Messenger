@@ -12,3 +12,7 @@ check inbox,
 unfriend,
 group chat with friends 
 and check your friend list.
+
+## Diagram
+
+<img width="3174" height="5800" alt="diagram" src="https://github.com/user-attachments/assets/52fcda1b-79a1-48ab-aa60-cd8add65d25d" />
